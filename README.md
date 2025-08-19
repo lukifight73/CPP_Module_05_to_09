@@ -18,7 +18,7 @@ Part of 42 Common Core. C++ learning
 # Installation and compilation
 1. Clone this repository into your project:
 ```bash
-git clone git@github.com:Philippe89fr/42_CPP_Module_5_to_9.git
+git clone git@github.com:lukifight73/CPP_Module_05_to_09.git
 ```
 2. Run the following command:
 ```bash
